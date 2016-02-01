@@ -1,0 +1,21 @@
+* Star Beetle: A Keyboarding Adventure
+Help Beetle Boy navigate the stars in a quest for keyboarding mastery.  Collect as many stars as you can on your way to each planet, but don't get stuck on the way.  Each level let's you practice a different set of keys, before the final level brings the whole keyboard together.
+
+** How To Play
+
+[Screenshot - intro screen]
+Wait for the first level to begin, or press a key to start immediately.  To skip to a specific level, press the number of that level.
+
+Press the ~esc~ key at any time to quit the game.
+
+[Screenshot - game play]
+Each level is made up of several puzzles that use the same letters, numbers or punctuation marks.  The goal of each puzzle is move Beetle Boy through as many stars as possible before arriving at the planet.  To move to a star, press the key shown on that star.  Beetle Boy can only move to a star that is connected directly to him by a line.  A puzzle ends when Beetle Boy reaches the planet, or when he finds himself stuck with no stars he can move to.
+
+** How To Install
+
+Star Beetle uses the Löve 2D game engine, so it runs on Windows, Mac OS X or Linux.  The easiest way to install the game is:
+1. Install the appropriate version of [[https://love2d.org/][Löve 2D]] for your operating system.
+2. Download the latest ~space_beetle.love~ file from the .
+3. Double-click on ~space_beetle.love~ file to start the game.
+
+
